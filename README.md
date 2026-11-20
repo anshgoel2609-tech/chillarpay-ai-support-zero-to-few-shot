@@ -2,7 +2,7 @@
 
 **A FinTech case study on when a simple prompt is enough and when AI needs examples.**
 
-Author: [Your Name] · BBA (FinTech), Chitkara Business School · Tool: Claude · November 2026
+Author: Ansh Goel · BBA (FinTech), Chitkara Business School · Tool: Claude · November 2026
 
 ## The case
 
